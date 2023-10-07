@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm RS Nandhu krishna</h1>
 <h3 align="center">A passionate Python Full stack developer from India</h3>
 
-![GIF](https://user-images.githubusercontent.com/74038190/241764371-9d0fd0c4-5c7f-4122-b884-64a1e1685d2d.gif)
+![GIF](https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nandhukriss&label=Profile%20views&color=0e75b6&style=flat" alt="nandhukriss" /> </p>
