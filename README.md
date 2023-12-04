@@ -11,9 +11,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nandhukriss" alt="nandhukriss" /></a> </p>
 
-- 👯 I’m looking to collaborate on [Cine-recommender](https://github.com/Nandhukriss/Cine-recommender)
 
-- 👨‍💻 All of my projects are available at [https://statuesque-khapse-e1678d.netlify.app/](https://statuesque-khapse-e1678d.netlify.app/)
 
 - 💬 Ask me about **Django,Flask,frontend Development**
 
