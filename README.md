@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm R S Nandhu krishna</h1>
-<h3 align="center">A passionate Python Full stack developer And A Machine learning Enthusiast </h3>
+<h3 align="center">A Passionate ⚒ **Python Full Stack Developer** ⚒ And A 🤖 **Machine Learning Enthusiast** </h3>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
