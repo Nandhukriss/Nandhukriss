@@ -1,4 +1,4 @@
-![github-header-image (1)](https://github.com/Nandhukriss/Nandhukriss/assets/103727372/7a6c5d0c-14ad-405b-b060-2f1adc303f3d)
+![github-header-image (2)](https://github.com/Nandhukriss/Nandhukriss/assets/103727372/f05593fa-ec36-42e2-bdf4-bd876cabb5ea)
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
