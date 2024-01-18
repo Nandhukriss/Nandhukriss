@@ -13,12 +13,12 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nandhukriss" alt="nandhukriss" /></a> </p>
 
+![Nandhukriss's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nandhukriss&theme=tokyonight&hide_border=false)
 
 - 💬 Ask me about **APIs,Django,React**
 
 - 📫 How to reach me **rsnandhukrishna@gmail.com**
-
-
+- 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://stackoverflow.com/users/22493396" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22493396" height="30" width="40" /></a>
@@ -26,5 +26,3 @@
 <a href="https://instagram.com/nandhu__kris" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nandhu__kris" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/nandhu_r_s_kris1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="nandhu_r_s_kris1" height="30" width="40" /></a>
 </p>
-
-![Nandhukriss's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nandhukriss&theme=tokyonight&hide_border=false)
