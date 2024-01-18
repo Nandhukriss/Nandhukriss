@@ -1,6 +1,5 @@
-<h1 align="center">Hi 👋, I'm R S Nandhu krishna</h1>
+![github-header-image](https://github.com/Nandhukriss/Nandhukriss/assets/103727372/21347294-19d6-40dc-960e-a6d23aa672ad)
 
-<h3 align="center">A <span style="font-weight: bold;">Python Full Stack Developer</span> And A 🤖 <span style="font-weight: bold;">Machine Learning Enthusiast</span> </h3>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
