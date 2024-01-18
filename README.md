@@ -27,8 +27,4 @@
 <a href="https://www.hackerrank.com/nandhu_r_s_kris1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="nandhu_r_s_kris1" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nandhukriss&show_icons=true&locale=en&layout=compact" alt="nandhukriss" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nandhukriss&show_icons=true&locale=en" alt="nandhukriss" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nandhukriss&" alt="nandhukriss" /></p>
+![Nandhukriss's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nandhukriss&theme=tokyonight&hide_border=false)
